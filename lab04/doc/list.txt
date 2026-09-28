@@ -1,0 +1,4 @@
+total 148
+-rw-rw-rw- 1 codespace codespace 151191 Jun 27  2025 alice.txt
+total 4
+-rw-rw-rw- 1 codespace codespace 73 Sep 28 06:50 list.txt
